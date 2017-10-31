@@ -3,7 +3,7 @@ package cert_test
 import (
 	"fmt"
 
-	"arf/v1/cert"
+	"github.com/gopyai/cert"
 )
 
 func Example1() {
